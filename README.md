@@ -1,0 +1,2 @@
+# SE
+sistema escolar
